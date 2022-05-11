@@ -12,7 +12,7 @@ Users can do basic CRUD operation in the Web app .
 
 
 #Sql-script 
-
+<pre>
 *CREATE DATABASE  IF NOT EXISTS `web_customer_tracker` 
 USE `web_customer_tracker`;
  
@@ -25,7 +25,7 @@ USE `web_customer_tracker`;
   `email` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) 
-<p>
+
 INSERT INTO `customer` VALUES 
 	(1,'Abhisheak','Roy','abhiroy@yahoo.com'),
 	(2,'Aditya Mohan','Jha','jadityamohanjha@yahoo.in'),
@@ -33,6 +33,6 @@ INSERT INTO `customer` VALUES
 	(4,'Jatin','Nijawan','jatinNijhawan@gmail.com'),
 	(5,'Shewtank','Mishra','shwetankmishra@gamil.com');*
 
-</p>
+</pre>
 # Usage
 Click on soundCloud extension and use it to change/repeat/like/play/pause songs.
