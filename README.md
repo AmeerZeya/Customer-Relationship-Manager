@@ -25,7 +25,7 @@ USE `web_customer_tracker`;
   `email` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) 
-<br>
+<p>
 INSERT INTO `customer` VALUES 
 	(1,'Abhisheak','Roy','abhiroy@yahoo.com'),
 	(2,'Aditya Mohan','Jha','jadityamohanjha@yahoo.in'),
@@ -33,6 +33,6 @@ INSERT INTO `customer` VALUES
 	(4,'Jatin','Nijawan','jatinNijhawan@gmail.com'),
 	(5,'Shewtank','Mishra','shwetankmishra@gamil.com');*
 
-
+</p>
 # Usage
 Click on soundCloud extension and use it to change/repeat/like/play/pause songs.
