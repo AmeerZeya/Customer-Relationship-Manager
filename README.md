@@ -25,7 +25,7 @@ USE `web_customer_tracker`;
   `email` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) 
-
+<br>
 INSERT INTO `customer` VALUES 
 	(1,'Abhisheak','Roy','abhiroy@yahoo.com'),
 	(2,'Aditya Mohan','Jha','jadityamohanjha@yahoo.in'),
