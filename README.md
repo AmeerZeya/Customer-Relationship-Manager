@@ -46,10 +46,12 @@ The web shows the list of customers currently present in the database
 
 All the web app operations as follows
 
+
 ## Create
 User can create an entity with first name , last name and email address
 
 ![image](https://user-images.githubusercontent.com/82048817/167896007-d9e6de0e-4131-4206-9c6d-923e032d4e20.png)
+
 
 ## Update
 User can update the entity details present in the DB
@@ -63,4 +65,8 @@ User can update the entity details present in the DB
 -Save
 ![image](https://user-images.githubusercontent.com/82048817/167898812-42b70032-f8fc-4ed5-b7fa-606aaca276ab.png)
 
+
+## Delete
+User can delete an entity
+![image](https://user-images.githubusercontent.com/82048817/167901565-f792226e-1f4a-4b12-be4c-bd973ebd9e2c.png)
 
