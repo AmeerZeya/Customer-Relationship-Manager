@@ -13,12 +13,12 @@ Users can do basic CRUD operation in the Web app .
 
 #Sql-script 
 
-CREATE DATABASE  IF NOT EXISTS `web_customer_tracker` 
+*CREATE DATABASE  IF NOT EXISTS `web_customer_tracker` 
 USE `web_customer_tracker`;
  
-DROP TABLE IF EXISTS `customer`;
+*DROP TABLE IF EXISTS `customer`;*
 
-CREATE TABLE `customer` (
+*CREATE TABLE `customer` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `first_name` varchar(45) DEFAULT NULL,
   `last_name` varchar(45) DEFAULT NULL,
@@ -30,7 +30,7 @@ INSERT INTO `customer` VALUES
 	(2,'Aditya Mohan','Jha','jadityamohanjha@yahoo.in'),
 	(3,'Ameer','Zeya','ameerzeya@yahoo.in'),
 	(4,'Jatin','Nijawan','jatinNijhawan@gmail.com'),
-	(5,'Shewtank','Mishra','shwetankmishra@gamil.com');
+	(5,'Shewtank','Mishra','shwetankmishra@gamil.com');*
 
 
 # Usage
