@@ -67,6 +67,7 @@ User can update the entity details present in the DB
 
 
 ## Delete
-User can delete an entity
+
+-User can delete an entity
 ![image](https://user-images.githubusercontent.com/82048817/167901565-f792226e-1f4a-4b12-be4c-bd973ebd9e2c.png)
 
