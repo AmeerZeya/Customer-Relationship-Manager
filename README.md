@@ -58,7 +58,7 @@ User can update the entity details present in the DB
 ![image](https://user-images.githubusercontent.com/82048817/167897592-2cb54896-9896-4c4b-902b-2cc0e95e495c.png)
 
 -update the customer details
-![image](https://user-images.githubusercontent.com/82048817/167898578-83d1d82a-1dff-4148-915c-b2385fa84712.png)
+![image](https://user-images.githubusercontent.com/82048817/167900142-c77b85a6-09c2-4fa1-8a9c-9a07de892a09.png)
 
 -Save
 ![image](https://user-images.githubusercontent.com/82048817/167898812-42b70032-f8fc-4ed5-b7fa-606aaca276ab.png)
