@@ -1,4 +1,3 @@
-package com.luv2code.springdemo.dao;
 
 import java.util.List;
 
@@ -23,7 +22,7 @@ public class CustomerDAOImpl implements CustomerDAO {
 		Session currentSession = sessionFactory.getCurrentSession();
 				
 		Query<Customer> theQuery = 
-				currentSession.createQuery("from Customer order by lastName",
+				currentSession.createQuery("from Customer order by firstName",
 											Customer.class);
 		
 		List<Customer> customers = theQuery.getResultList();
