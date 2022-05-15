@@ -44,17 +44,15 @@ The web shows the list of customers currently present in the database
 
 # Usage
 
-All the web app operations as follows
-
-
-## Create
-User can create an entity with first name , last name and email address
+## 1) Create new entry
+User can create an entity with first name , last name and email address.
+This entry would be saved in the mySql DB.
 
 ![image](https://user-images.githubusercontent.com/82048817/167896007-d9e6de0e-4131-4206-9c6d-923e032d4e20.png)
 
 
-## Update
-User can update the entity details present in the DB
+## 2) Update already present entry
+Clicking on the update link , the corresponding entity is fetched from the mySql db 
 
 -click in update button
 ![image](https://user-images.githubusercontent.com/82048817/167897592-2cb54896-9896-4c4b-902b-2cc0e95e495c.png)
@@ -66,8 +64,16 @@ User can update the entity details present in the DB
 ![image](https://user-images.githubusercontent.com/82048817/167898812-42b70032-f8fc-4ed5-b7fa-606aaca276ab.png)
 
 
-## Delete
+## 3) Delete an entry
 
 -User can delete an entity
 ![image](https://user-images.githubusercontent.com/82048817/167901565-f792226e-1f4a-4b12-be4c-bd973ebd9e2c.png)
+
+
+## In this SpringBoot web app the database used is mySql
+
+![image](https://user-images.githubusercontent.com/82048817/168487132-9d9c3bb1-6cb8-43fb-98ac-574032cd8319.png)
+
+
+
 
